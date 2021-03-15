@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: e1641124b1d0ff54193ddb42ad61caba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4463543192231197209
+    second: alienworld_tileset_0
+  - first:
+      213: 7676708989915652285
+    second: alienworld_tileset_1
+  - first:
+      213: 4624281434582899397
+    second: alienworld_tileset_2
+  - first:
+      213: -8013711939650041782
+    second: alienworld_tileset_3
+  - first:
+      213: -7353233570752257301
+    second: alienworld_tileset_4
+  - first:
+      213: 6558892272352095655
+    second: alienworld_tileset_5
+  - first:
+      213: 1134165763146078366
+    second: alienworld_tileset_6
+  - first:
+      213: -9077468876218146263
+    second: alienworld_tileset_7
+  - first:
+      213: 2004248424446435710
+    second: alienworld_tileset_8
+  - first:
+      213: 2663955480006073589
+    second: alienworld_tileset_9
+  - first:
+      213: 8689550718714588781
+    second: alienworld_tileset_10
+  - first:
+      213: 4763145801705855307
+    second: alienworld_tileset_11
+  - first:
+      213: -2136460758381282593
+    second: alienworld_tileset_12
+  - first:
+      213: -1428969545709699698
+    second: alienworld_tileset_13
+  - first:
+      213: -3872608417233030676
+    second: alienworld_tileset_14
+  - first:
+      213: 4878389126363405398
+    second: alienworld_tileset_15
+  - first:
+      213: -3717500006504872104
+    second: alienworld_tileset_16
+  - first:
+      213: -7694124261969791849
+    second: alienworld_tileset_17
+  - first:
+      213: -2038089037751118852
+    second: alienworld_tileset_18
+  - first:
+      213: -2900700471781907347
+    second: alienworld_tileset_19
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 48
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: alienworld_tileset_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91abd8c62e0b1fd30800000000000000
+      internalID: 4463543192231197209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
